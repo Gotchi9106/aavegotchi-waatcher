@@ -1,0 +1,22 @@
+{
+  "name": "waatcher",
+  "version": "0.0.1",
+  "description": "A work in progress Aavegotchi CLI explorer.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "waatcher-install": "echo \"WAATCHER >> Installing...\" && npm install -g . && waatcher && exit 0"
+  },
+  "author": "navinavu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "commander": "^9.1.0",
+    "ethers": "^5.6.2",
+    "graphql": "^16.3.0",
+    "terminal-kit": "^2.4.0"
+  },
+  "bin": {
+    "waatcher": "./bin/index.js"
+  }
+}

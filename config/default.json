@@ -1,0 +1,10 @@
+{
+    "app" : {
+        "subgraph": {
+            "url": "https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic?version=current"
+        },
+        "waatcher": {
+            "refresh_rate": 10000
+        } 
+    }
+}
