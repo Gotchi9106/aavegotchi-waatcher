@@ -8,7 +8,7 @@ This project is using NPM and NodeJS.
 
 You can run *waatcher* from the Node project:
 ```bash
-git clone [git_repository_url]
+git clone https://github.com/NaviNavu/aavegotchi-waatcher.git
 cd aavegotchi-waatcher/
 npm install
 node bin/index.js [command]
@@ -16,7 +16,7 @@ node bin/index.js [command]
 
 Or you can install *waatcher* globally on your system by using the provided npm script:
 ```bash
-git clone [git_repository_url]
+git clone https://github.com/NaviNavu/aavegotchi-waatcher.git
 cd aavegotchi-waatcher/
 npm run waatcher-install
 ```
