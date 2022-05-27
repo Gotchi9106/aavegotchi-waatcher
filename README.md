@@ -54,7 +54,7 @@ lendings|l [options] (NOT IMPLEMENTED)
 waatcher waatch baazaar
 waatcher w b
 ```
-[waatch baazaar](navinavu.github.com/aavegotchi-waatcher/github-data/img/wb.png)
+![wb](https://user-images.githubusercontent.com/77575346/170732647-2ad80c1f-6b4d-4de0-94b2-b284eea1f9a9.png)
 
 
 - Waatch for last Baazaar listings filtered by a given category:
@@ -63,7 +63,7 @@ waatcher w b
 waatcher waatch baazaar -c gotchi
 waatcher w b -c gotchi
 ```
-[waatch baazaar category](navinavu.github.com/aavegotchi-waatcher/github-data/img/wb-cat.png)
+![wbc](https://user-images.githubusercontent.com/77575346/170733030-0814841e-40db-4de9-8b58-5ca2a281cbc9.png)
 
 Available categories: gotchi, portalclose, portalopen, parcel, wearable, consumable, badge, ticket, building, tile
 
@@ -73,7 +73,7 @@ waatcher waatch baazaar -c gotchi -i 2898
 waatcher w b -c gotchi -i2898
 ```
 
-[waatch baazaar category id](navinavu.github.com/aavegotchi-waatcher/github-data/img/wb-cat-id.png)
+![wbci](https://user-images.githubusercontent.com/77575346/170733182-a7e14117-a4b7-486b-9997-c43e9b631dc0.png)
 
 #### 👻 summon | s
 
@@ -83,7 +83,7 @@ waatcher summon -c gotchi -i 2898
 waatcher s -c gotchi -i2898
 ```
 
-[summon category id](navinavu.github.com/aavegotchi-waatcher/github-data/img/s-gotchi-id.png)
+![sci](https://user-images.githubusercontent.com/77575346/170733275-f01f39ba-8fbf-44ef-abc5-ba08ae973d7a.png)
 
 #### 📊 staats
 Display Aavegotchi statistics.
